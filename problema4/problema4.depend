@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511123112 source:f:\cursuri\an 2 sem1\tap\laborator\lab2- divide et impera\problema4\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
